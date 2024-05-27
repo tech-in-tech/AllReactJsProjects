@@ -1,0 +1,19 @@
+h1{
+  font-weight: 100;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 30px;
+  
+}
+input{
+  width: 100%;
+}
+.row{
+  margin-bottom: 20px;
+}
+.col-4,.col-6,.col-2{
+  text-align: left;
+}
+button{
+  min-width: 80px;
+}

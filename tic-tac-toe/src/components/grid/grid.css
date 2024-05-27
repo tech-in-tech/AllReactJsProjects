@@ -1,0 +1,15 @@
+.grid{
+  /* border: 1px solid red; */
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.turn-heighlight{
+  text-align: center;
+  color: burlywood;
+  font-family: 'Franklin Gothic Medium'
+  
+}
